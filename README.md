@@ -3,22 +3,23 @@
 
 **Step 1:** Create a BASH Script eg.
 
-```http
+`````http
 nano script.sh
-```
+`````
+
 **Step 2:** Make the file executable
 
-```http
+```
 chmod +x script.sh
 ```
+
 **Step 3:** Run script using:
 
-```http
+```
 bash script.sh
 ```
 or
-
-```http
+```
 ./script.sh
 ```
 <h3 align="left">Support:</h3>
